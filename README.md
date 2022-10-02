@@ -8,3 +8,7 @@
   <a href="https://instagram.com/yande.cc/"><img src="https://img.shields.io/badge/yande.cc-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   <a href="https://twitter.com/yande_cc/"><img src="https://img.shields.io/badge/yande__cc-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 </div>
+
+&nbsp;
+
+[![@yandearta's Holopin board](https://holopin.io/api/user/board?user=yandearta)](https://holopin.io/@yandearta)
