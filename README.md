@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/yandearta">
     <img src="https://img.shields.io/badge/LinkedIn-007ab6.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
 </a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=yandearta00@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=yandearta@akarui.dev">
     <img src="https://img.shields.io/badge/Gmail-EB4132?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
